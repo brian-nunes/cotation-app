@@ -50,4 +50,4 @@ To stop the services, use the following command:
 
     ```bash
     docker-compose down
-    ```
+    ```   
