@@ -48,6 +48,6 @@ Access the backend API at http://localhost:8000 and the frontend app at http://l
 
 To stop the services, use the following command:
 
-```bash
-docker-compose down
-```
+    ```bash
+    docker-compose down
+    ```
